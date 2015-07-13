@@ -1,6 +1,6 @@
 # docker-coruja
 
-Imagem Docker com julius e coruja_jlapsapi-1.7 pré instalados
+Imagem Docker com coruja_jlapsapi-1.7 pré instalado
 
 # Comandos úteis #
 
