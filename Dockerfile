@@ -1,4 +1,4 @@
-FROM fabito/julius
+FROM fabito/julius:4.3.1
 
 MAINTAINER Fábio Uechi <fabio.uechi@gmail.com>
 
